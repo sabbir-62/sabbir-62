@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I am Sabbir Hossain
+#### Web Developer
+![Web Developer](https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-<!--
-**sabbir-62/sabbir-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN stack web developer. With expertise in MongoDB, Express.js, React, and Node.js, I build dynamic web applications that bring ideas to life. I love solving problems and thrive on teamwork. Let's create something amazing together!
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / Bootstrap /  C / C++/ JavaScript / ReactJS / NodeJS / ExpressJS / Mongodb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a practice project which name is HSTU Alumni Association (HSTUAA). 
+- 🌱 I’m currently learning MERN Stack web development. 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about web development 
+- 📫 How to reach me: Email: sabbir.hossain.se62@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbir-62)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-62)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir-62&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir-62)  
+
+![GitHub metrics](https://metrics.lecoq.io/sabbir-62)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sabbir-62)  
+
+![Profile views](https://gpvc.arturio.dev/sabbir-62)  
