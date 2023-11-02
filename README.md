@@ -2,7 +2,7 @@
 ## Web Developer
 I'm a passionate MERN stack web developer. With expertise in MongoDB, Express.js, React, and Node.js, I build dynamic web applications that bring ideas to life. I love solving problems and thrive on teamwork. Let's create something amazing together!
 
-Skills: HTML / CSS / Bootstrap /  C / C++/ JavaScript / ReactJS / NodeJS / ExpressJS / Mongodb
+Skills: HTML / CSS / Bootstrap /  C / C++/ PHP(Basic) / JavaScript / ReactJS / NodeJS / ExpressJS / Mongodb
 
 - 🔭 I’m currently working on a practice project which name is HSTU Alumni Association (HSTUAA). 
 - 🌱 I’m currently learning MERN Stack web development. 
