@@ -22,5 +22,3 @@ Skills: HTML / CSS / Bootstrap /  C / C++/ JavaScript / ReactJS / NodeJS / Expre
 ![GitHub metrics](https://metrics.lecoq.io/sabbir-62)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sabbir-62)  
-
-![Profile views](https://gpvc.arturio.dev/sabbir-62)  
