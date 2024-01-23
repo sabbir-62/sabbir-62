@@ -4,7 +4,7 @@ I'm a passionate MERN stack web developer. With expertise in MongoDB, Express.js
 
 Skills: HTML / CSS / Bootstrap /  C / C++ / PHP(Basic) / JavaScript / ReactJS / NodeJS / ExpressJS / Mongodb
 
-- 🔭 I’m currently working on a practice project which is a Ecommerce Project. 
+- 🔭 I’m currently working on a practice project which is an Ecommerce Project. 
 - 🌱 I’m currently learning MERN Stack web development. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web development 
