@@ -17,8 +17,4 @@ Skills: HTML / CSS / Bootstrap /  C / C++ / PHP(Basic) / JavaScript / ReactJS / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir-62&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir-62)  
-
-![GitHub metrics](https://metrics.lecoq.io/sabbir-62)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sabbir-62)  
