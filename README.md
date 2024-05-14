@@ -1,11 +1,10 @@
 ### Hi there 👋, I am Sabbir Hossain
 ## Web Developer
-I'm a passionate web developer. With expertise in MongoDB, PostgreSQL, Express.js, Node.js, React.js, and next.js, I build dynamic web applications that bring ideas to life. I love solving problems and thrive on teamwork. Let's create something amazing together!
+I'm a passionate web developer. With expertise in MongoDB, MySQL, PostgreSQL, Express.js, Node.js, React.js, Angular and next.js, I build dynamic web applications that bring ideas to life. I love solving problems and thrive on teamwork. Let's create something amazing together!
 
-Skills: HTML / CSS / Bootstrap /  C / C++ / PHP(Basic) / JavaScript / ReactJS / NextJS / NodeJS / ExpressJS / Mongodb / PostgreSQL
+Skills: HTML / CSS / Bootstrap /  C / C++ / PHP(Basic) / JavaScript / ReactJS / NextJS / Angular / NodeJS / ExpressJS / Mongodb / PostgreSQL / MySQL
 
-- 🔭 I’m currently working on a practice project which is an Ecommerce Project. 
-- 🌱 I’m currently learning MERN Stack web development. 
+- 🔭 I’m currently working with Topofstack Software Ltd.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web development 
 - 📫 How to reach me: Email: sabbir.hossain.se62@gmail.com 
