@@ -2,7 +2,7 @@
 ## Web Developer
 I'm a passionate web developer. With expertise in MySQL, PostgreSQL, Express.js, Node.js, React.js, Angular and next.js, I build dynamic web applications that bring ideas to life. I love solving problems and thrive on teamwork. Let's create something amazing together!
 
-Skills: HTML / CSS / Bootstrap /  C / C++ / PHP(Basic) / JavaScript / ReactJS / NextJS / Angular / NodeJS / ExpressJS / NestJS / Strapi / Mongodb / PostgreSQL / MySQL / Flutter
+Skills: HTML / CSS / Bootstrap / TailwindCSS /  C / C++ / PHP(Basic) / JavaScript / ReactJS / NextJS / Angular / NodeJS / ExpressJS / NestJS / Strapi / Mongodb / PostgreSQL / MySQL / Prisma
 
 - 🔭 I’m currently working with Topofstack Software Ltd.
 - 👯 I’m looking to collaborate on Github 
